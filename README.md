@@ -16,6 +16,10 @@
 This project aims to delve into the sales performance of a Store across a four-year period (2013-2017), concentrating on 10 states categorized into four regions (Central, East, South, West) within the USA. Through comprehensive analysis of the sales data, our objective is to uncover significant trends and patterns that offer valuable insights. By employing a data-driven approach, we aim to make informed recommendations to enhance performance and gain a detailed understanding of the company's overall business trajectory.
 
 
+
+![Store's Sales Analysis](https://github.com/Iyin-Oluwa/Store-Sales-Analysis--Excel/assets/171290094/1fc3e284-6022-40a9-ad9c-91e85d5e0a4c)
+
+
 ### Data Source
 
 Sales Data: The primary dataset used for this project is the 'Superstore.xlsx', containing detailed information about each sale made by the company.
