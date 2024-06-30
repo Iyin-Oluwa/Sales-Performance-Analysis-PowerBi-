@@ -33,14 +33,14 @@ Sales Data: The primary dataset used for this project is the 'Superstore.xlsx', 
   -  [Download here](https://microsoft.com)
 
 
-  ### Data Cleaning/Preparation
+ ### Data Cleaning/Preparation
  - Data Loading and Inspection: The dataset was initially loaded into the analysis environment to thoroughly examine its contents. This step enabled understanding of the data's structure, including its columns and rows, providing an initial assessment of its overall quality and completeness.
 
 - Handling Missing Values: Addressing any missing data points within the dataset involved identifying where data was absent and implementing appropriate strategies for handling these gaps, whether through imputation or removal, to ensure that the analysis was based on as complete a dataset as possible.
 
 - Data Cleaning and Formatting: The data was cleaned to ensure accuracy and consistency for analysis. This process involved tasks such as correcting errors, removing duplicates, and standardizing formats (e.g., dates, text) across the dataset. Formatting also included ensuring correct assignment of data types (e.g., numerical values treated as numbers, categorical variables appropriately labeled).
 
-  ### Exploratory Data Analysis
+### Exploratory Data Analysis
   EDA involved exploring the sales data to answer the key questions with the years and region as a benchmark.
 
   - What is the Overall sales?
