@@ -18,7 +18,8 @@ This project aims to delve into the sales performance of a Store across a four-y
 
 
 
-![Sales Analysis Dashboard_](https://github.com/Iyin-Oluwa/Store-Sales-Analysis--Excel/assets/171290094/5c1fc3bf-b90e-4c18-ae74-af168d8a252d)
+![Sales Analysis DHBD](https://github.com/user-attachments/assets/ffca8478-b861-46af-a229-9c7dea590f5b)
+
 
 ### Data Source
 
